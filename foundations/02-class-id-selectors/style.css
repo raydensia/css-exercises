@@ -1,0 +1,23 @@
+/* styles.css */
+
+.a-class {
+    background-color: #ffa5a5;
+    font-family: "Copperplate", "Garamond", monospace;
+}
+
+.cooler {
+    font-size: 28px;
+}
+
+#blue-text-id {
+    color: #0000ff;
+    font-size: 40px;
+    font-family: "Helvetica", sans-serif;
+}
+
+#green-bg-id {
+    background-color: #adff2f;
+    font-size: 28px;
+    font-family: "Helvetica", sans-serif;
+    font-weight: bold;
+}
